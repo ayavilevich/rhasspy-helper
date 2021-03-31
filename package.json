@@ -1,0 +1,16 @@
+{
+  "name": "rhasspy-helper",
+  "version": "1.0.0",
+  "description": "Rhasspy troubleshooter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arik Yavilevich <arik@aygarage.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mqtt": "^4.2.6",
+    "wavefile": "^11.0.0"
+  }
+}
